@@ -14,7 +14,7 @@ Este é um sistema de gerenciamento modular desenvolvido em Java, como parte de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/GianGrig/sistema-gerenciamento-modular-crud-java.git
 
 2. Compile o código Java:
    ```bash
